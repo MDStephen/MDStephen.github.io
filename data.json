@@ -1,0 +1,55 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "name": "Krumel",
+            "description": "A cookies and trackers visualizer and dashboard for understanding internet privacy",
+            "category": [
+                "Hackathon",
+                "AI assisted development"
+            ],
+            "stack": [
+                "React",
+                "TypeScript",
+                "Tailwind",
+                "Base44",
+                "Chrome Browser API"
+            ],
+            "links": [
+                "https://github.com/MDStephen/Krumel",
+                "https://krumel-data-trace.base44.app/login"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Work Tracker",
+            "description": "A tool for compiling and tracking work done across websites and local files",
+            "category": [
+                "Personal"
+            ],
+            "stack": [
+                "Python",
+                "TKinter"
+            ],
+            "links": [
+                "https://github.com/MDStephen/Work-Tracker"
+            ]
+        }
+    ],
+    "coursework": [
+        {
+            "id": 1,
+            "name": "Software Engineering II",
+            "code": "CS 3750",
+            "description": "A team-built RV park management web app for handling sites, reservations, and park operations, developed by a six person team over a semester",
+            "stack": [
+                "C#",
+                "ASP.NET",
+                "Razor Pages"
+            ],
+            "links": [
+                "https://github.com/MDStephen/RVPark"
+            ]
+        }
+    ]
+}
